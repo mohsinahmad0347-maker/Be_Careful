@@ -33,7 +33,7 @@ jobs:
 
       - name: Build
         env:
-          VITE_BASE: /Be-careful/
+          VITE_BASE: /Be_Careful/
         run: npm run build
 
       # SPA fallback for client-side routes
